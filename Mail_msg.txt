@@ -1,0 +1,7 @@
+Hello Sir,
+I'm writing to give you an update.
+The pages I completed while working on the ERP frontend are listed below.
+1] Distributor Inventory Report.
+2] Add Distributor.
+3] Add outlet.
+4] Promoter Summary.
